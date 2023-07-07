@@ -3,8 +3,10 @@ This project is developed for Java101 on <a href="https://patika.dev">patika.dev
 
 ## Algorithm
 Please check out transactions below:
-        0 + 1 = 1
+        
 
+        0 + 1 = 1
+        
         1 + 1 = 2
        
         1 + 2 = 3
